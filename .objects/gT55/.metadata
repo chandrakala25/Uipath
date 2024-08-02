@@ -1,0 +1,11 @@
+﻿{
+  "Name": "New application",
+  "Type": "App",
+  "Id": "gT55M6VmHEaljMTW7wMIFg",
+  "Reference": "vT9-DTDQg0mIQ3MA2j__Rg/gT55M6VmHEaljMTW7wMIFg",
+  "Created": "2024-02-22T14:01:04.3289114Z",
+  "Updated": "2024-02-22T14:01:04.3289114Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
